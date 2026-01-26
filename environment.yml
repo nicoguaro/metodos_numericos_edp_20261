@@ -1,0 +1,14 @@
+name: metodos_edp
+channels:
+ - conda-forge
+dependencies:
+ - conda
+ - python>=3.10
+ - jupyterlab
+ - numpy
+ - scipy
+ - matplotlib
+ - sympy
+ - ipympl
+ - meshio
+ - pyvista
