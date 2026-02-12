@@ -9,6 +9,7 @@ dependencies:
  - scipy
  - matplotlib
  - sympy
+ - pandas
  - ipympl
  - meshio
  - pyvista
