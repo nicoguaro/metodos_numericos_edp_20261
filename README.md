@@ -25,7 +25,7 @@ reciente del repositorio.
 ## Instrucciones de instalación
 
 Recomendamos usar ``conda`` para instalar los paquetes necesarios para este
-taller. Se requieren dependencias ajenas a Python, lo que hace que la
+curso. Se requieren dependencias ajenas a Python, lo que hace que la
 instalación manual o con ``pip`` un poco compleja.
 
 
