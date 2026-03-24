@@ -19,7 +19,7 @@ La animación anterior presenta la solución para la ecuación de
 para el modelo de Gray-Scott sobre un dominio periódico. La solución fue
 encontrada con el método de diferencias finitas con esquema explícito de
 integración en el tiempo. El código estará disponible en una actualización
-reciente del repositorio.
+próxima del repositorio.
 
 
 ## Instrucciones de instalación
