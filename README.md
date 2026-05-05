@@ -6,7 +6,7 @@
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicoguaro/metodos_numericos_edp_20261)
 
 
-Este es el repositorio con el maaterial para el curso de Métodos Numéricos para
+Este es el repositorio con el material para el curso de Métodos Numéricos para
 Ecuaciones en Derivadas Parciales de la Universidad EAFIT para el 2026.
 
 
@@ -18,9 +18,7 @@ La animación anterior presenta la solución para la ecuación de
 [reacción-difusión](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system)
 para el modelo de Gray-Scott sobre un dominio periódico. La solución fue
 encontrada con el método de diferencias finitas con esquema explícito de
-integración en el tiempo. El código estará disponible en una actualización
-próxima del repositorio.
-
+integración en el tiempo ([ver código](./notebooks/3_ecuaciones_parabolicas/04_reac_diff_fd.py)).
 
 ## Instrucciones de instalación
 
@@ -47,7 +45,7 @@ conda activate metodos_edp
 
 ## Verificando la instalación
 
-Tras la instalación, puede comprobar si todo está instalado.
+Tras la instalación, puede comprobar si todo está correcto.
 
 ```console
 python check_install.py
